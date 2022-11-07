@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://github.com/igorgmail/myImg/blob/main/readMe/github-header-image.png" width="100%"/>
 </div>
