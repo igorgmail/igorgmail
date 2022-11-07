@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/" width="100%"/>
+  <img src="https://media.giphy.com/](https://github.com/igorgmail/myImg/blob/main/readMe/github-header-image.png" width="100%"/>
 </div>
 <!--
 **igorgmail/igorgmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
