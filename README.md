@@ -1,11 +1,12 @@
 <div id="header" align="center">
-  <img src="https://github.com/igorgmail/myImg/blob/main/readMe/github-header-image2.png" width="100%"/>
+  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.png" width="100%"/>
 </div>
 <!--
 **igorgmail/igorgmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
+<p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+</P>
+
