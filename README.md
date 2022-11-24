@@ -1,5 +1,6 @@
-<div id="header" align="center">
+<div id="header" align="center" position="relativ">
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
+  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" position="absolute"/>
 </div>
 <!--
 **igorgmail/igorgmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
