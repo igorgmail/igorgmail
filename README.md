@@ -1,3 +1,9 @@
+<style>
+.icon {
+  position: "absolute";
+  left: 0;
+  }
+</style>
 <div id="header" align="center" position="relativ">
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" class="icon"/>
@@ -18,9 +24,3 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 </P>
 
-<style>
-.icon {
-  position: "absolute";
-  left: 0;
-  }
-</style>
