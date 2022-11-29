@@ -1,11 +1,5 @@
 
 <div id="header" align="center" position="relativ">
-  <style type="text/css" rel="stylesheet">
-.icon {
-  position: "absolute";
-  left: 0;
-  }
-</style>
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" class="icon"/>
 </div>
