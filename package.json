@@ -11,10 +11,13 @@
     "url": "git+https://github.com/igorgmail/igorgmail.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "igor",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/igorgmail/igorgmail/issues"
   },
-  "homepage": "https://github.com/igorgmail/igorgmail#readme"
+  "homepage": "https://github.com/igorgmail/igorgmail#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
 }
