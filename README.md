@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ...
 </P>
   </div>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorgmail&repo=bears2022online_asessment2a)](https://github.com/igorgmail/bears2022online_asessment2a)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=igorgmail&repo=bears2022online_asessment2a)](https://github.com/igorgmail/bears2022online_asessment2a)
 </div>
 <!--
 **igorgmail/igorgmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
