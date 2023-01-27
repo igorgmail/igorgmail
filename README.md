@@ -1,12 +1,12 @@
-My name is Igor and today is Friday, 27 January at 20:35 CET.
+My name is Igor and today is Friday, 27 January at 20:36 CET.
 <img src="https://www.codewars.com/users/igorKgmail/badges/small"/>
 
 <div id="header" align="center" position="relativ">
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
 	<hr/>
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=1A5975&center=true&multiline=true&width=500&lines=🅷🅴🆈++My+Name++Igor;
-    Today++is++Friday, 27 January at 20:35 CET;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++My+Name++Igor;
+    Today++is++Friday, 27 January at 20:36 CET;
     Welcome" alt="Typing SVG" /></a>
 
   <hr/>
