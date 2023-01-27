@@ -1,4 +1,4 @@
-
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username) 
 <div id="header" align="center" position="relativ">
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
 	<hr/>
@@ -18,7 +18,7 @@
   </div>
 
 </div>
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username) 
+
 <!--
 **igorgmail/igorgmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
