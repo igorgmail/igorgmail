@@ -1,4 +1,4 @@
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/igorKgmail/badges/small) 
+<img src="https://www.codewars.com/users/igorKgmail/badges/small" width="100%"/>
 <div id="header" align="center" position="relativ">
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
 	<hr/>
