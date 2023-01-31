@@ -1,11 +1,10 @@
-My name is Igor and today is вторник, 31 января.
 <img src="https://www.codewars.com/users/igorKgmail/badges/small"/>
 
 <div id="header" align="center" position="relativ">
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
 	<hr/>
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++My+Name++Igor;Today++is++вторник, 31 января;Welcome" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++My+Name++Igor;Today++is++Tuesday, January 31;Welcome" alt="Typing SVG" /></a>
 
   <hr/>
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="left"/>
