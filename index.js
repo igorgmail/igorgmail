@@ -9,14 +9,14 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 let DATA = {
   name: 'Igor',
-  date: new Date().toLocaleDateString('en-GB', {
+  date: new Date().toLocaleDateString('ru-RU', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
-    timeZoneName: 'short',
-    timeZone: 'Europe/Stockholm',
+    // hour: 'numeric',
+    // minute: 'numeric',
+    // timeZoneName: 'short',
+    // timeZone: 'Europe/Stockholm',
   }),
 };
 /**
