@@ -12,10 +12,10 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<div>
+<div  width="100%">
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="left"/>
 </div>
-
+<br/>
 <hr/>
 
 ### 📬 Find me at
