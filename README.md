@@ -3,9 +3,9 @@
 <div id="header" align="center" position="relativ">
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
 	<hr/>
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++My+Name++Igor;Today++is++Tuesday, February 7;Today is a great day to code." alt="Typing SVG" /></a>
-</a>
+ <!-- <a href="https://git.io/typing-svg"> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++My+Name++Igor;Today++is++Tuesday, February 7;Today is a great day to code." alt="Typing SVG" />
+  <!-- </a> -->
 </div>
   <hr/>
   ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
