@@ -7,18 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++My+Name++Igor;Today++is++Tuesday, February 7;Today is a great day to code." alt="Typing SVG" />
 </div>
 
-<hr/>
+___
 
 ### A little about me...  🙎‍♂️
 
-<div class="block" style="width: 100%;">
-  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="left"/>
-</div>
-
-___
-
-
-### 📬 Find me at
   <p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -29,6 +21,19 @@ ___
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </P>
+
+___
+
+<p>
+  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="left"/>
+</p>
+
+### Some Tool and Tech I use  
+___
+
+
+### 📬 Find me at
+
 
 <hr/>
 
