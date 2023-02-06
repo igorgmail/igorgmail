@@ -11,8 +11,8 @@
 
 ### A little about me...  🙎‍♂️
 
-<div>
-  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="100%" align="left"/>
+<div width="100%>
+  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="left"/>
 </div>
 <hr/>
 
