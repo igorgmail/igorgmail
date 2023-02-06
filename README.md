@@ -9,13 +9,13 @@
 
 <hr/>
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
+### A little about me...  🙎‍♂️
 
 <div>
-  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="left"/>
-<hr/>
+  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="100%" align="left"/>
 </div>
-<br/>
+<hr/>
+
 
 ### 📬 Find me at
   <p>
