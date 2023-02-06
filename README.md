@@ -28,15 +28,12 @@ ___
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="left" margin="10px"/>
 </p>
 
-<h3 align="centr"> Some Tool and Tech I use</h3>  
+<h3 align="centr"> Some Tool and Tech I use</h3>
+
 ___
 
 
 ### 📬 Find me at
-
-
-
-### Some Tool and Tech I use
 
 Первый заголовок | Второй заголовок
 ------------ | ------------
