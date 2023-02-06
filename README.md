@@ -10,13 +10,15 @@
 
 <hr/>
 
-  ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <div>
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="left"/>
 </div>
 
+<hr/>
 
+### 📬 Find me at
   <p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,4 +30,6 @@
 - ⚡ Fun fact: ...
 </P>
 
-<p>Some Tool and Tech I use</p>
+<hr/>
+
+### Some Tool and Tech I use
