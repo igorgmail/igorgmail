@@ -26,10 +26,10 @@ ___
 
 <span>
 <p>
-  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="left" margin="10px"/>
+  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="right" />
 </p>
 
-<h3 align="centr"> Some Tool and Tech I use</h3>
+<h3 align="left"> Some Tool and Tech I use</h3>
 </span>
 
 ___
