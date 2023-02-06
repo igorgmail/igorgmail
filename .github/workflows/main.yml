@@ -31,7 +31,7 @@ jobs:
         git config --global user.email "igor.k.nsk@gmail.com"
         git config --global user.name "igorgmail"
         git add README.md
-        git commit -m 'update Readme'
+        git commit -am "bot: updated README.md"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
