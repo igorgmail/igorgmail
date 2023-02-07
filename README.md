@@ -1,4 +1,3 @@
-
 <div id="header" align="center" position="relativ">
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
 	<hr/>
@@ -8,7 +7,7 @@
 
 ## 🙎‍♂️ A little about me...
 
-- I'm a fullstack developer.
+- I'm a Javascript Full Stack Developer.
 - Passionate about learning and working with new tech.
 - I’m currently learning TypeScript.<br/>
 
@@ -54,7 +53,7 @@
 [![](https://img.shields.io/badge/Gmail-EA4335?logoWidth=20&logoColor=white&style=for-the-badge&logo=Gmail)](https://mailto:igor.k.nsk@gmail.com)
 
 
-## Some statistics.
+## 📊 Some statistics.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorgmail)](https://github.com/anuraghazra/github-readme-stats)
 
