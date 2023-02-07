@@ -39,14 +39,14 @@
 ![](https://img.shields.io/badge/PostgreSQL-333333?logoWidth=20&logoColor=4169E1&style=for-the-badge&logo=PostgreSQL)
 ![](https://img.shields.io/badge/Sequelize-333333?logoWidth=20&logoColor=52B0E7&style=for-the-badge&logo=Sequelize)
 
-- ### Other skills:
+- ### Other skills :
 
 ![](https://img.shields.io/badge/Git-333333?logoWidth=20&logoColor=F05032&style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/Postman-333333?logoWidth=20&logoColor=FF6C37&style=for-the-badge&logo=Postman)
 
 - - -
 
-## 📬 Find me at
+## 📬 Find me at.
 
 [![](https://img.shields.io/badge/Telegram-26A5E4?logoWidth=20&logoColor=white&style=for-the-badge&logo=Telegram)](https://t.me/mao_ti)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?logoWidth=20&logoColor=white&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/igor-korneev/)
@@ -57,4 +57,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorgmail)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorgmail&show_icons=true)
