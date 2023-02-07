@@ -35,7 +35,6 @@
 ![](https://img.shields.io/badge/Bootstrap-333333?logoWidth=20&logoColor=7952B3&style=for-the-badge&logo=Bootstrap)
 ![](https://img.shields.io/badge/Chakra_UI-333333?logoWidth=20&logoColor=319795&style=for-the-badge&logo=ChakraUI)
 
-
 - ### Backend :
 
 ![](https://img.shields.io/badge/Node_JS-333333?logoWidth=20&logoColor=4F9C43&style=for-the-badge&logo=Node.js)
