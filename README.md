@@ -30,6 +30,7 @@
 
 ![](https://img.shields.io/badge/React-333333?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/Redux-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
+![](https://img.shields.io/badge/React_Router-333333?logoWidth=20&logoColor=CA4245&style=for-the-badge&logo=ReactRouter)
 
 ![](https://img.shields.io/badge/Bootstrap-333333?logoWidth=20&logoColor=7952B3&style=for-the-badge&logo=Bootstrap)
 ![](https://img.shields.io/badge/Chakra_UI-333333?logoWidth=20&logoColor=319795&style=for-the-badge&logo=ChakraUI)
@@ -39,7 +40,6 @@
 
 ![](https://img.shields.io/badge/Node_JS-333333?logoWidth=20&logoColor=4F9C43&style=for-the-badge&logo=Node.js)
 ![](https://img.shields.io/badge/Express-333333?logoWidth=20&logoColor=bfbfbf&style=for-the-badge&logo=Express)
-
 ![](https://img.shields.io/badge/PostgreSQL-333333?logoWidth=20&logoColor=4169E1&style=for-the-badge&logo=PostgreSQL)
 ![](https://img.shields.io/badge/Sequelize-333333?logoWidth=20&logoColor=52B0E7&style=for-the-badge&logo=Sequelize)
 
@@ -59,4 +59,4 @@
 
 ## Some statistics.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorgmail)](https://github.com/anuraghazra/github-readme-stats)
