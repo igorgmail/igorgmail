@@ -60,18 +60,17 @@
 
 ![](https://img.shields.io/badge/Git-333333?logoWidth=40&logoColor=F05032&style=for-the-badge&logo=Git)
 
-![](https://img.shields.io/badge/Postman-333333?logoWidth=40&logoColor=FF6C37&style=for-the-badge&logo=Postman)
+___
+
+<span>
+<p>
+  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/developer_med.gif" width="20%" align="right" />
+</p>
+
+<h3 align="left"> Some Tool and Tech I use 💻</h3>
+</span>
+
+___
 
 
-## 📬 Find me at
-
----
-
-
-## 📊 Some statistics
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorgmail&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
----
+### 📬 Find me at
