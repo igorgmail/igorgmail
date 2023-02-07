@@ -3,7 +3,7 @@
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
 	<hr/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++My+Name++Igor;Today++is++Tuesday, February 7;𝙄𝙩'𝙨 𝙖 𝙜𝙧𝙚𝙖𝙩 𝙙𝙖𝙮 𝙩𝙤 𝙘𝙤𝙙𝙚." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++My+name`s++Igor;Today++is++Tuesday, February 7;𝙄𝙩'𝙨 𝙖 𝙜𝙧𝙚𝙖𝙩 𝙙𝙖𝙮 𝙩𝙤 𝙘𝙤𝙙𝙚." alt="Typing SVG" />
 </div>
 
 - - -
@@ -18,7 +18,7 @@
 - 💣 i like to play shooters online.<br/>
 - 🧩 I like to  train on programming challenges.<br/>
 
-  - <img src="https://www.codewars.com/users/igorKgmail/badges/small"/>
+  - [![](https://www.codewars.com/users/igorKgmail/badges/small)](https://www.codewars.com/users/igorKgmail)
   <br/>
 
 ## 💻 Some Tool and Tech I use.
