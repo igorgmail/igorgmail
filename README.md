@@ -3,7 +3,7 @@
   <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
 	<hr/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++My+name`s++Igor;Today++is++Tuesday, February 7;𝙄𝙩'𝙨 𝙖 𝙜𝙧𝙚𝙖𝙩 𝙙𝙖𝙮 𝙩𝙤 𝙘𝙤𝙙𝙚." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=500&height=100&lines=🅷🅴🆈++𝗠𝘆++𝗻𝗮𝗺𝗲`𝘀++𝗜𝗴𝗼𝗿;Today++is++Tuesday, February 7;𝙄𝙩'𝙨 𝙖 𝙜𝙧𝙚𝙖𝙩 𝙙𝙖𝙮 𝙩𝙤 𝙘𝙤𝙙𝙚." alt="Typing SVG" />
 </div>
 
 - - -
@@ -50,7 +50,7 @@
 
 - - -
 
-### 📬 Find me at
+## 📬 Find me at
 
 [![](https://img.shields.io/badge/Telegram-26A5E4?logoWidth=20&logoColor=white&style=for-the-badge&logo=Telegram)](https://t.me/mao_ti)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?logoWidth=20&logoColor=white&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/igor-korneev/)
