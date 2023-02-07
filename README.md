@@ -24,12 +24,12 @@
 ## 💻 Some Tool and Tech I use.
 
 - ### Frontend :
-![](https://img.shields.io/badge/HTML_5-5e5e5e?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
-![](https://img.shields.io/badge/CSS_3-5e5e5e?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
-![](https://img.shields.io/badge/JavaScript-5e5e5e?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
+![](https://img.shields.io/badge/HTML_5-505050?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
+![](https://img.shields.io/badge/CSS_3-505050?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
+![](https://img.shields.io/badge/JavaScript-505050?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
 
-![](https://img.shields.io/badge/React-5e5e5e?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
-![](https://img.shields.io/badge/Redux-5e5e5e?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
+![](https://img.shields.io/badge/React-505050?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
+![](https://img.shields.io/badge/Redux-505050?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
 
 ![](https://img.shields.io/badge/Bootstrap-333333?logoWidth=20&logoColor=7952B3&style=for-the-badge&logo=Bootstrap)
 ![](https://img.shields.io/badge/Chakra_UI-333333?logoWidth=20&logoColor=319795&style=for-the-badge&logo=ChakraUI)
@@ -38,7 +38,7 @@
 - ### Backend :
 
 ![](https://img.shields.io/badge/Node_JS-333333?logoWidth=20&logoColor=4F9C43&style=for-the-badge&logo=Node.js)
-![](https://img.shields.io/badge/Express-333333?logoWidth=20&logoColor=000000&style=for-the-badge&logo=Express)
+![](https://img.shields.io/badge/Express-333333?logoWidth=20&logoColor=bfbfbf&style=for-the-badge&logo=Express)
 
 ![](https://img.shields.io/badge/PostgreSQL-333333?logoWidth=20&logoColor=4169E1&style=for-the-badge&logo=PostgreSQL)
 ![](https://img.shields.io/badge/Sequelize-333333?logoWidth=20&logoColor=52B0E7&style=for-the-badge&logo=Sequelize)
