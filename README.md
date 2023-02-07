@@ -14,9 +14,9 @@
 - Passionate about learning and working with new tech.<br/>
 - I’m currently learning TypeScript.<br/>
 
-- 👯 I love movies and theater.<br/>
-- 🤔 i like to play shooters online.<br/>
-- 💬 I like to  train on programming challenges.<br/>
+- 🎭 I love movies and theater.<br/>
+- 💣 i like to play shooters online.<br/>
+- 🧩 I like to  train on programming challenges.<br/>
 
   - <img src="https://www.codewars.com/users/igorKgmail/badges/small"/>
   <br/>
@@ -48,4 +48,13 @@
 ![](https://img.shields.io/badge/Git-333333?logoWidth=20&logoColor=F05032&style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/Postman-333333?logoWidth=20&logoColor=FF6C37&style=for-the-badge&logo=Postman)
 
+- - -
+
 ### 📬 Find me at
+
+[![](https://img.shields.io/badge/Telegram-26A5E4?logoWidth=20&logoColor=white&style=for-the-badge&logo=Telegram)](https://t.me/mao_ti)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?logoWidth=20&logoColor=white&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/igor-korneev/)
+[![](https://img.shields.io/badge/Gmail-EA4335?logoWidth=20&logoColor=white&style=for-the-badge&logo=Gmail)](https://mailto:igor.k.nsk@gmail.com)
+
+
+
