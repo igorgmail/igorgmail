@@ -1,4 +1,10 @@
 <div id="header" align="center" position="relativ">
+<<<<<<< HEAD
+=======
+  <img src="https://github.com/igorgmail/igorgmail/blob/main/img/header-image.jpg" width="100%"/>
+	<hr/>
+
+>>>>>>> a33032c26ba3202a22bbce74d7aa42fd1dfc63e2
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=800&height=100&background=81BECE&lines=🅷🅴🆈++𝗠𝘆++𝗻𝗮𝗺𝗲`𝘀++𝗜𝗴𝗼𝗿;Today++is++Wednesday, February 8;𝗜𝘁`𝘀 𝗮 𝗴𝗿𝗲𝗮𝘁 𝗱𝗮𝘆 𝘁𝗼 𝗰𝗼𝗱𝗲." alt="Typing SVG" />
 </div>
 
