@@ -29,7 +29,7 @@
 
 ![](https://img.shields.io/badge/Bootstrap-333333?logoWidth=20&logoColor=7952B3&style=for-the-badge&logo=Bootstrap)
 ![](https://img.shields.io/badge/Chakra_UI-333333?logoWidth=20&logoColor=319795&style=for-the-badge&logo=ChakraUI)
-![](https://img.shields.io/badge/Material_Ui-333333?logoWidth=20&logoColor=007FFF&style=for-the-badge&logo=MaterialUI)
+![](https://img.shields.io/badge/Material_Ui-333333?logoWidth=20&logoColor=007FFF&style=for-the-badge&logo=MUI)
 
 - ### Backend :
 
