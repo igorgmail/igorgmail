@@ -11,17 +11,17 @@
 
 - 🎭 I love movies and theater.
 - 💣 i like to play shooters online.
-- 🧩 I like to  train on programming challenges.
+- 🧩 I like to train on programming challenges.
 
   - [![](https://www.codewars.com/users/igorKgmail/badges/small)](https://www.codewars.com/users/igorKgmail)
-  <br/>
+    <br/>
 
 ## 💻 Some Tool and Tech I use.
 
 - ### Frontend :
-![](https://img.shields.io/badge/HTML_5-333333?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
-![](https://img.shields.io/badge/CSS_3-333333?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
-![](https://img.shields.io/badge/JavaScript-333333?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
+  ![](https://img.shields.io/badge/HTML_5-333333?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
+  ![](https://img.shields.io/badge/CSS_3-333333?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
+  ![](https://img.shields.io/badge/JavaScript-333333?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
 
 ![](https://img.shields.io/badge/React-333333?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/Redux-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
@@ -29,6 +29,7 @@
 
 ![](https://img.shields.io/badge/Bootstrap-333333?logoWidth=20&logoColor=7952B3&style=for-the-badge&logo=Bootstrap)
 ![](https://img.shields.io/badge/Chakra_UI-333333?logoWidth=20&logoColor=319795&style=for-the-badge&logo=ChakraUI)
+![](https://img.shields.io/badge/Material_Ui-333333?logoWidth=20&logoColor=007FFF&style=for-the-badge&logo=MaterialUI)
 
 - ### Backend :
 
@@ -42,14 +43,13 @@
 ![](https://img.shields.io/badge/Git-333333?logoWidth=20&logoColor=F05032&style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/Postman-333333?logoWidth=20&logoColor=FF6C37&style=for-the-badge&logo=Postman)
 
-- - -
+---
 
 ## 📬 Find me at.
 
 [![](https://img.shields.io/badge/Telegram-26A5E4?logoWidth=20&logoColor=white&style=for-the-badge&logo=Telegram)](https://t.me/mao_ti)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?logoWidth=20&logoColor=white&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/igor-korneev/)
 [![](https://img.shields.io/badge/Gmail-EA4335?logoWidth=20&logoColor=white&style=for-the-badge&logo=Gmail)](https://mailto:igor.k.nsk@gmail.com)
-
 
 ## 📊 Some statistics.
 
