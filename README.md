@@ -19,9 +19,10 @@
 ## 💻 Some Tool and Tech I use.
 
 - ### Frontend :
-  ![](https://img.shields.io/badge/HTML_5-333333?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
-  ![](https://img.shields.io/badge/CSS_3-333333?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
-  ![](https://img.shields.io/badge/JavaScript-333333?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
+
+![](https://img.shields.io/badge/HTML_5-333333?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
+![](https://img.shields.io/badge/CSS_3-333333?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
+![](https://img.shields.io/badge/JavaScript-333333?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
 
 ![](https://img.shields.io/badge/React-333333?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/Redux-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
@@ -29,7 +30,7 @@
 
 ![](https://img.shields.io/badge/Bootstrap-333333?logoWidth=20&logoColor=7952B3&style=for-the-badge&logo=Bootstrap)
 ![](https://img.shields.io/badge/Chakra_UI-333333?logoWidth=20&logoColor=319795&style=for-the-badge&logo=ChakraUI)
-![](https://img.shields.io/badge/Material_Ui-333333?logoWidth=20&logoColor=007FFF&style=for-the-badge&logo=MaterialUI)
+![](https://img.shields.io/badge/Material_Ui-333333?logoWidth=20&logoColor=007FFF&style=for-the-badge&logo=MUI)
 
 - ### Backend :
 
