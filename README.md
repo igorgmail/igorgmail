@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/HTML_5-333333?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
 ![](https://img.shields.io/badge/CSS_3-333333?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
 ![](https://img.shields.io/badge/JavaScript-333333?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
+![](https://img.shields.io/badge/TypeScript-333333?logoWidth=20&logoColor=3178C6&style=for-the-badge&logo=typescript)
 
 ![](https://img.shields.io/badge/React-333333?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/Redux-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
@@ -43,6 +44,7 @@
 
 ![](https://img.shields.io/badge/Git-333333?logoWidth=20&logoColor=F05032&style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/Postman-333333?logoWidth=20&logoColor=FF6C37&style=for-the-badge&logo=Postman)
+![](https://img.shields.io/badge/Figma-333333?logoWidth=20&logoColor=F24E1E&style=for-the-badge&logo=figma)
 
 ---
 
