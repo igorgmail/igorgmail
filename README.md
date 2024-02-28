@@ -26,8 +26,9 @@
 ![](https://img.shields.io/badge/TypeScript-333333?logoWidth=20&logoColor=3178C6&style=for-the-badge&logo=typescript)
 
 ![](https://img.shields.io/badge/React-333333?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
-![](https://img.shields.io/badge/Redux-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
 ![](https://img.shields.io/badge/React_Router-333333?logoWidth=20&logoColor=CA4245&style=for-the-badge&logo=ReactRouter)
+![](https://img.shields.io/badge/Redux-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
+![](https://img.shields.io/badge/Redux_Toolkit-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
 
 ![](https://img.shields.io/badge/Bootstrap-333333?logoWidth=20&logoColor=7952B3&style=for-the-badge&logo=Bootstrap)
 ![](https://img.shields.io/badge/Chakra_UI-333333?logoWidth=20&logoColor=319795&style=for-the-badge&logo=ChakraUI)
