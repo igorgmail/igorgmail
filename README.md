@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/HTML_5-333333?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
 ![](https://img.shields.io/badge/CSS_3-333333?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
 ![](https://img.shields.io/badge/JavaScript-333333?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
-![](https://img.shields.io/badge/TypeScript-333333?logoWidth=20&logoColor=3178C6&style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/TypeScript-333333?logoWidth=20&logoColor=3178C6&style=for-the-badge&logo=Typescript)
 
 ![](https://img.shields.io/badge/React-333333?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/React_Router-333333?logoWidth=20&logoColor=CA4245&style=for-the-badge&logo=ReactRouter)
