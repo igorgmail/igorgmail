@@ -26,11 +26,13 @@
 ![](https://img.shields.io/badge/TypeScript-333333?logoWidth=20&logoColor=3178C6&style=for-the-badge&logo=Typescript)
 
 ![](https://img.shields.io/badge/React-333333?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
-![](https://img.shields.io/badge/Redux-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
 ![](https://img.shields.io/badge/React_Router-333333?logoWidth=20&logoColor=CA4245&style=for-the-badge&logo=ReactRouter)
+![](https://img.shields.io/badge/Redux-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
+![](https://img.shields.io/badge/Redux_Toolkit-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
 
 ![](https://img.shields.io/badge/Bootstrap-333333?logoWidth=20&logoColor=7952B3&style=for-the-badge&logo=Bootstrap)
 ![](https://img.shields.io/badge/Chakra_UI-333333?logoWidth=20&logoColor=319795&style=for-the-badge&logo=ChakraUI)
+![](https://img.shields.io/badge/Material_Ui-333333?logoWidth=20&logoColor=007FFF&style=for-the-badge&logo=MUI)
 
 - ### Backend :
 
@@ -43,6 +45,7 @@
 
 ![](https://img.shields.io/badge/Git-333333?logoWidth=20&logoColor=F05032&style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/Postman-333333?logoWidth=20&logoColor=FF6C37&style=for-the-badge&logo=Postman)
+![](https://img.shields.io/badge/Figma-333333?logoWidth=20&logoColor=#F24E1E&style=for-the-badge&logo=figma)
 
 ---
 
