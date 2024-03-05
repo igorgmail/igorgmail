@@ -1,6 +1,6 @@
  <img src="./img/hw.gif"/>
 <div id="header" align="center" position="relativ">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=1000&height=100&background=81BECE&lines=🅷🅴🆈++𝗠𝘆++𝗻𝗮𝗺𝗲`𝘀++𝗜𝗴𝗼𝗿;Today++is++Monday, March 4;𝗜𝘁`𝘀 𝗮 𝗴𝗿𝗲𝗮𝘁 𝗱𝗮𝘆 𝘁𝗼 𝗰𝗼𝗱𝗲." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=1000&height=100&background=81BECE&lines=🅷🅴🆈++𝗠𝘆++𝗻𝗮𝗺𝗲`𝘀++𝗜𝗴𝗼𝗿;Today++is++Tuesday, March 5;𝗜𝘁`𝘀 𝗮 𝗴𝗿𝗲𝗮𝘁 𝗱𝗮𝘆 𝘁𝗼 𝗰𝗼𝗱𝗲." alt="Typing SVG" />
 </div>
 
 ## 🙎‍♂️ A little about me...
@@ -11,28 +11,24 @@
 
 - 🎭 I love movies and theater.
 - 💣 i like to play shooters online.
-- 🧩 I like to train on programming challenges.
+- 🧩 I like to  train on programming challenges.
 
   - [![](https://www.codewars.com/users/igorKgmail/badges/small)](https://www.codewars.com/users/igorKgmail)
-    <br/>
+  <br/>
 
 ## 💻 Some Tool and Tech I use.
 
 - ### Frontend :
-
 ![](https://img.shields.io/badge/HTML_5-333333?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
 ![](https://img.shields.io/badge/CSS_3-333333?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
 ![](https://img.shields.io/badge/JavaScript-333333?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
-![](https://img.shields.io/badge/TypeScript-333333?logoWidth=20&logoColor=3178C6&style=for-the-badge&logo=Typescript)
 
 ![](https://img.shields.io/badge/React-333333?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
-![](https://img.shields.io/badge/React_Router-333333?logoWidth=20&logoColor=CA4245&style=for-the-badge&logo=ReactRouter)
 ![](https://img.shields.io/badge/Redux-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
-![](https://img.shields.io/badge/Redux_Toolkit-333333?logoWidth=20&logoColor=764ABC&style=for-the-badge&logo=Redux)
+![](https://img.shields.io/badge/React_Router-333333?logoWidth=20&logoColor=CA4245&style=for-the-badge&logo=ReactRouter)
 
 ![](https://img.shields.io/badge/Bootstrap-333333?logoWidth=20&logoColor=7952B3&style=for-the-badge&logo=Bootstrap)
 ![](https://img.shields.io/badge/Chakra_UI-333333?logoWidth=20&logoColor=319795&style=for-the-badge&logo=ChakraUI)
-![](https://img.shields.io/badge/Material_Ui-333333?logoWidth=20&logoColor=007FFF&style=for-the-badge&logo=MUI)
 
 - ### Backend :
 
@@ -45,15 +41,15 @@
 
 ![](https://img.shields.io/badge/Git-333333?logoWidth=20&logoColor=F05032&style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/Postman-333333?logoWidth=20&logoColor=FF6C37&style=for-the-badge&logo=Postman)
-![](https://img.shields.io/badge/Figma-333333?logoWidth=20&logoColor=F24E1E&style=for-the-badge&logo=Figma)
 
----
+- - -
 
 ## 📬 Find me at.
 
 [![](https://img.shields.io/badge/Telegram-26A5E4?logoWidth=20&logoColor=white&style=for-the-badge&logo=Telegram)](https://t.me/mao_ti)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?logoWidth=20&logoColor=white&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/igor-korneev/)
 [![](https://img.shields.io/badge/Gmail-EA4335?logoWidth=20&logoColor=white&style=for-the-badge&logo=Gmail)](https://mailto:igor.k.nsk@gmail.com)
+
 
 ## 📊 Some statistics.
 
