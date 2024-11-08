@@ -1,6 +1,6 @@
  <img src="./img/hw.gif"/>
 <div id="header" align="center" position="relativ">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=1000&height=100&background=81BECE&lines=🅷🅴🆈++𝗠𝘆++𝗻𝗮𝗺𝗲`𝘀++𝗜𝗴𝗼𝗿;Today++is++Thursday, November 7;𝗜𝘁`𝘀 𝗮 𝗴𝗿𝗲𝗮𝘁 𝗱𝗮𝘆 𝘁𝗼 𝗰𝗼𝗱𝗲." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=1000&height=100&background=81BECE&lines=🅷🅴🆈++𝗠𝘆++𝗻𝗮𝗺𝗲`𝘀++𝗜𝗴𝗼𝗿;Today++is++Friday, November 8;𝗜𝘁`𝘀 𝗮 𝗴𝗿𝗲𝗮𝘁 𝗱𝗮𝘆 𝘁𝗼 𝗰𝗼𝗱𝗲." alt="Typing SVG" />
 </div>
 
 ## 🙎‍♂️ A little about me...
@@ -21,7 +21,6 @@
 - ### Frontend :
 ![](https://img.shields.io/badge/HTML_5-333333?logoWidth=20&logoColor=E34F26&style=for-the-badge&logo=HTML5)
 ![](https://img.shields.io/badge/CSS_3-333333?logoWidth=20&logoColor=1572B6&style=for-the-badge&logo=CSS3)
-![](https://img.shields.io/badge/Sass-333333?logoWidth=20&logoColor=BF4080&style=for-the-badge&logo=Sass)
 ![](https://img.shields.io/badge/JavaScript-333333?logoWidth=20&logoColor=F7E018&style=for-the-badge&logo=JavaScript)
 
 ![](https://img.shields.io/badge/React-333333?logoWidth=20&logoColor=61DAFB&style=for-the-badge&logo=React)
@@ -42,9 +41,6 @@
 
 ![](https://img.shields.io/badge/Git-333333?logoWidth=20&logoColor=F05032&style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/Postman-333333?logoWidth=20&logoColor=FF6C37&style=for-the-badge&logo=Postman)
-![](https://img.shields.io/badge/Docker-333333?logoWidth=20&logoColor=1D63ED&style=for-the-badge&logo=Docker)
-![](https://img.shields.io/badge/Gulp-333333?logoWidth=20&logoColor=CF4647&style=for-the-badge&logo=Gulp)
-
 
 - - -
 
