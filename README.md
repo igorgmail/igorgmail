@@ -2,7 +2,7 @@
 <div id="header" align="center" position="relativ">
  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=1000&height=100&background=81BECE&lines=🅷🅴🆈++𝗠𝘆++𝗻𝗮𝗺𝗲`𝘀++𝗜𝗴𝗼𝗿;Today++is++Wednesday, November 19;𝗜𝘁`𝘀 𝗮 𝗴𝗿𝗲𝗮𝘁 𝗱𝗮𝘆 𝘁𝗼 𝗰𝗼𝗱𝗲." alt="Typing SVG" /></a>
 </div>
-<a href="https://git.io/typing-svg"><img src="http://localhost:8000?font=Fira+Code&duration=1000&pause=10000&multiline=true&repeat=false&width=435&lines=FIRST+STRING;SECOND+STRING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 ## 🙎‍♂️ A little about me...
 
 - I'm a Javascript Full Stack Developer.
