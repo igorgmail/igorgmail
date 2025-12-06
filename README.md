@@ -1,6 +1,6 @@
  <img src="./img/hw.gif"/>
 <div id="header" align="center" position="relativ">
-  <img src="https://js-readme-typing-svg.vercel.app/svg?lines=%24STYLE%7Bcolor%3A+%23e36209%2C+text%3A+%5BSTATUS%5D%7D++%3D%3D%3D+Session+log+initialized+%3D%3D%3D%3B%24STYLE%7Bcolor%3A+%2322863a%2C+text%3A+%5BINFO%5D%7D+System+time%3A+%24DATE%7BdateStyle%3A+full%2C+locale%3A+en%7D+...+%24STYLE%7Bcolor%3A+%2322863a%2C+text%3A+%5BOK%5D%7D%3B%24STYLE%7Bcolor%3A+%23d73a49%2C+text%3A+%5BALERT%5D%7D+Visitor+detected%21+Greeting+protocol+activated+...+%24STYLE%7Bcolor%3A+%2322863a%2C+text%3A+%5BOK%5D%7D%3B%24STYLE%7Bcolor%3A+%236a737d%2C+text%3A+%5BDEBUG%5D%7D+Loading+developer+profile+...+%24STYLE%7Bcolor%3A+%2322863a%2C+text%3A+%5BOK%5D%7D%3B%24STYLE%7Bcolor%3A+%23e36209%2C+text%3A+%5BSYSTEM%5D%7D+Specialization%3A+Full-Stack+JS+%7C+Problem+Solving+...+%24STYLE%7Bcolor%3A+%2322863a%2C+text%3A+%5BOK%5D%7D&fontSize=20&fontFamily=Science+Gothic&fontWeight=300&letterSpacing=0&color=FFFFFF&background=54AAB5&width=900&height=200&printSpeed=50&delayBetweenLines=800&eraseSpeed=100&eraseMode=fade&cursorStyle=underlined&horizontalAlign=left&verticalAlign=middle&multiLine=true&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=1300&color=1A5975&center=true&multiline=true&width=1000&height=100&background=81BECE&lines=🅷🅴🆈++𝗠𝘆++𝗻𝗮𝗺𝗲`𝘀++𝗜𝗴𝗼𝗿;Today++is++Saturday, December 6;𝗜𝘁`𝘀 𝗮 𝗴𝗿𝗲𝗮𝘁 𝗱𝗮𝘆 𝘁𝗼 𝗰𝗼𝗱𝗲." alt="Typing SVG" />
 </div>
 
 ## 🙎‍♂️ A little about me...
