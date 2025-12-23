@@ -58,8 +58,8 @@
 
 ## 📊 Some statistics.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorgmail)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-three-tau-50.vercel.app//api/top-langs/?username=igorgmail)
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorgmail&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-three-tau-50.vercel.app//api?username=igorgmail&show_icons=true)
